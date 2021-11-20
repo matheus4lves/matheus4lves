@@ -27,6 +27,11 @@
 [<img src="./src/common/images/java.png" style="height: 24px; padding: 10px">][java]
 [<img src="./src/common/images/android-studio.png" style="height: 24px; padding: 10px">][android-studio]
 
+### 📒 Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect with me
 
 [<img src="./src/common/images/linkedin.svg" style="height: 24px; padding: 10px">][linkedin]
