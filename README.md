@@ -1,10 +1,13 @@
+
 ## Hi! My name is **Matheus Alves**
 
 ### I'm a web developer and (almost) a computer engineer 👨‍🎓
 
-- 💻️ I'm currently looking for a **job / internship**
-- 2️⃣0️⃣2️⃣2️⃣ goal: become a junior developer
-- ☕️ is my preferred beverage
+- I'm currently looking for a **job / internship**
+- **2022 goal**: become a junior developer
+- And last but not least, ☕️ is my preferred beverage
+
+---
 
 ### I work with
 
@@ -27,10 +30,18 @@
 [<img src="./src/common/images/java.png" style="height: 24px; padding: 10px">][java]
 [<img src="./src/common/images/android-studio.png" style="height: 24px; padding: 10px">][android-studio]
 
+---
+
 ### 📒 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Matheus Alves' GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus4lves)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Connect with me
 
