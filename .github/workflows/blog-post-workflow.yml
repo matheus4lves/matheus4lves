@@ -7,7 +7,6 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update the README of this repo with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
