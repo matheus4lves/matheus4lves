@@ -40,6 +40,7 @@
 ---
 
 [![Matheus Alves' GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus4lves)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus4lves&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
