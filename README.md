@@ -48,11 +48,13 @@
 ## Connect with me
 
 [<img src="./src/common/images/linkedin.svg" height="24">][linkedin]
+[<img src="./src/common/images/gettr.svg" height="24">][gettr]
 [<img src="./src/common/images/parler.svg" height="24">][parler]
 [<img src="./src/common/images/facebook.svg" height="24">][facebook]
 [<img src="./src/common/images/youtube.svg" height="24">][youtube]
 
 [linkedin]: https://www.linkedin.com/in/matheus4lves/
+[gettr]: https://gettr.com/user/matheus4lves
 [parler]: https://parler.com/user/matheus4lves
 [facebook]: https://www.facebook.com/profile.php?id=100003877646753
 [youtube]: https://www.youtube.com/channel/UCOzFvIjNQ_h3nKWik71CTCQ
