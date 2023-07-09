@@ -33,9 +33,10 @@
   <img src="./src/common/images/jira.svg" height="24">
 </div>
 
-## 📒 Latest blog posts
+## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What’s the Difference Between path.join&lpar;&rpar; and path.resolve&lpar;&rpar;?](https://dev.to/matheus4lves/whats-the-difference-between-pathjoin-and-pathresolve-34ga)
 <!-- BLOG-POST-LIST:END -->
 
