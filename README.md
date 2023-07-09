@@ -36,6 +36,7 @@
 ## 📒 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the Difference Between path.join&lpar;&rpar; and path.resolve&lpar;&rpar;?](https://dev.to/matheus4lves/whats-the-difference-between-pathjoin-and-pathresolve-34ga)
 <!-- BLOG-POST-LIST:END -->
 
 [![Matheus Alves' GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus4lves)](https://github.com/anuraghazra/github-readme-stats)
