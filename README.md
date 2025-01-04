@@ -1,11 +1,13 @@
 # Hi, my name is **Matheus Alves**
 
-## I'm (almost) a computer engineer, full-stack web developer aspirant, technical writer, Brazilian
+## I'm (almost) a computer engineer, full-stack web developer aspirant, and technical writer
 
 - I'm currently looking for a **job / internship**
-- **2023 goals**:
+- **2025 goals**:
+  - Earn freeCodeCamp's Responsive Web Design certification
+  - Earn freeCodeCamp's A2 and B1 English for Developers certifications
+  - Finish some Udemy courses
   - Become a junior developer
-  - Improve my English skills
 
 ## Languages I speak
 
@@ -36,6 +38,7 @@
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What’s the Difference Between path.join&lpar;&rpar; and path.resolve&lpar;&rpar;?](https://dev.to/matheus4lves/whats-the-difference-between-pathjoin-and-pathresolve-34ga)
 <!-- BLOG-POST-LIST:END -->
 
@@ -47,19 +50,17 @@
 ## Connect with me
 
 [<img src="./src/common/images/linkedin.svg" height="24">][linkedin]
+[<img src="./src/common/images/x.svg" height="24">][x]
 [<img src="./src/common/images/gettr.svg" height="24">][gettr]
 [<img src="./src/common/images/dev-badge.svg" height="24">][dev.to]
 [<img src="./src/common/images/hackernoon.png" height="24">][hackernoon]
-[<img src="./src/common/images/clubhouse.svg" height="24">][clubhouse]
 [<img src="./src/common/images/facebook.svg" height="24">][facebook]
 [<img src="./src/common/images/youtube.svg" height="24">][youtube]
-[<img src="./src/common/images/udemy.svg" height="24">][udemy]
 
 [linkedin]: https://www.linkedin.com/in/matheus4lves/
+[x]: https://x.com/matheus4lvesfcc
 [gettr]: https://gettr.com/user/matheus4lves
 [dev.to]: https://dev.to/matheus4lves
 [hackernoon]: https://hackernoon.com/u/matheus4lves
 [facebook]: https://www.facebook.com/profile.php?id=100003877646753
 [youtube]: https://www.youtube.com/channel/UCOzFvIjNQ_h3nKWik71CTCQ
-[clubhouse]: https://www.clubhouse.com/@matheus4lves?utm_medium=ch_profile&utm_campaign=HPaHzQVjJaqM_U8jw9IeBQ-797720
-[udemy]: https://www.udemy.com/user/matheus-alves-dos-santos-freitas/
