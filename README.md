@@ -38,7 +38,10 @@
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Install MongoDB with OpenSSL 3 Support on Fedora 39](https://dev.to/matheus4lves/how-to-install-mongodb-with-openssl-3-support-on-fedora-39-4nii)
+- [Three Sentences That Changed My Way of Approaching Web Development.](https://dev.to/matheus4lves/three-sentences-that-changed-my-way-of-approaching-web-development-4hge)
+- [How are HTML elements stacked by default?](https://dev.to/matheus4lves/how-html-elements-are-stacked-by-default-41fe)
+- [Set Up Webpack 5 To Work With Static Files](https://dev.to/matheus4lves/set-up-webpack-5-to-work-with-static-files-52gk)
 - [What’s the Difference Between path.join&lpar;&rpar; and path.resolve&lpar;&rpar;?](https://dev.to/matheus4lves/whats-the-difference-between-pathjoin-and-pathresolve-34ga)
 <!-- BLOG-POST-LIST:END -->
 
